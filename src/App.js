@@ -1,3 +1,12 @@
+/*
+ * @Author: waj
+ * @Date: 2022-03-28 18:39:10
+ * @LastEditors: waj
+ * @LastEditTime: 2022-03-29 15:40:28
+ * @important: 重要提醒
+ * @Description: 备注内容
+ * @FilePath: \demo_project\src\App.js
+ */
 import logo from './logo.svg';
 import './App.css';
 
@@ -15,7 +24,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learnqq  React
         </a>
       </header>
     </div>
